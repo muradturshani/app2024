@@ -1,2 +1,3 @@
 Thisis File A
 This is a change
+second change
